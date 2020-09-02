@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    font-size: 60px;
+}
+
+strong{
+    color: blue;
+    font-size: 25px;
+    
+}
+
+div {
+    font-size: medium;
+    align-items: center;
+}
+
+
+
+img {
+    padding-right: 25px;
+    height: 900px;
+    border-radius: 45px;
+}
